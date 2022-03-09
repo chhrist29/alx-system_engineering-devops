@@ -1,0 +1,2 @@
+q -u | sort#!/bin/bash
+uniq -u | sort
